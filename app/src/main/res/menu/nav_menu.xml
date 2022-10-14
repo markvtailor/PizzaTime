@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuFragment"
+        android:icon="@drawable/ic_fastfood"
+        android:title="@string/menu_navigation_item" />
+    <item
+        android:id="@+id/userProfileFragment"
+        android:icon="@drawable/ic_user"
+        android:title="@string/profile_navigation_item" />
+    <item
+        android:id="@+id/basketFragment"
+        android:icon="@drawable/ic_basket"
+        android:title="@string/basket_navigation_item" />
+</menu>

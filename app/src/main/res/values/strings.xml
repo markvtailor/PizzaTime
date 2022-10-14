@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PizzaTime</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_city">Москва</string>
+    <string name="qr_code_description">QR code scanner</string>
+    <string name="pizza_category_button_text">Пицца</string>
+    <string name="pizza_category_button_hint">pizza</string>
+    <string name="desserts_category_button_text">Десерты</string>
+    <string name="desserts_category_button_hint">desserts</string>
+    <string name="combo_category_button_text">Комбо</string>
+    <string name="combo_category_button_hint">combo</string>
+    <string name="snacks_category_button_text">Закуски</string>
+    <string name="snacks_category_button_hint">snacks</string>
+    <string name="drinks_category_button_text">Напитки</string>
+    <string name="drinks_category_button_hint">drinks</string>
+    <string name="sauces_category_button_text">Соусы</string>
+    <string name="sauces_category_button_hint">sauces</string>
+    <string name="others_category_button_text">Другие товары</string>
+    <string name="others_category_button_hint">others</string>
+    <string name="dish_image_description">pizza image</string>
+    <string name="menu_navigation_item">Меню</string>
+    <string name="profile_navigation_item">Профиль</string>
+    <string name="basket_navigation_item">Корзина</string>
+</resources>
