@@ -32,7 +32,7 @@ class MenuFragment : Fragment() {
         super.onCreate(savedInstanceState)
 
         /** Getting pizza by default. */
-        viewModel.getSavedDishes("pizza")
+        viewModel.getDishes("pizza")
     }
 
     override fun onCreateView(
